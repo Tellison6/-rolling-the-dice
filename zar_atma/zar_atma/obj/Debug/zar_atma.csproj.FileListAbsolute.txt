@@ -1,0 +1,11 @@
+C:\Users\özhan\Desktop\zar_atma\zar_atma\bin\Debug\zar_atma.exe.config
+C:\Users\özhan\Desktop\zar_atma\zar_atma\bin\Debug\zar_atma.exe
+C:\Users\özhan\Desktop\zar_atma\zar_atma\bin\Debug\zar_atma.pdb
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.csproj.AssemblyReference.cache
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.csproj.SuggestedBindingRedirects.cache
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.Form1.resources
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.Properties.Resources.resources
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.csproj.GenerateResource.cache
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.csproj.CoreCompileInputs.cache
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.exe
+C:\Users\özhan\Desktop\zar_atma\zar_atma\obj\Debug\zar_atma.pdb
